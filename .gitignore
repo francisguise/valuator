@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+# Simfin cache
+simfin_cache
+
+# Simfin API Key
+api_key.txt
